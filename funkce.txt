@@ -32,7 +32,8 @@ počítat. Třetí parametr určí operaci ( 1 - sčítání, 2 - odčítání, 
 výsledek se vrací pomocí return.
 
 7.) Bonus (pro nejrychlejší) - 
-Napište funkci kalkulacka (můžete použít kód z dřívějška - dělali jsme na minulém školení) - funkce se vždy zeptá na dvě čísla a na 
+Napište funkci kalkulacka (můžete použít kód z dřívějška - dělali jsme na minulém školení) - funkce 
+se vždy zeptá na dvě čísla a na 
 třetí číslo jako operaci. Operace je 0 - skončit, 1 - sčítání, 2 - odčítání atd. Po provedení 
 operace se vytiskne výsledek a kalkulačka se zeptá na další zadání. Skončí jen po zadání nuly jako 
 operace. Funkci zavolejte.
