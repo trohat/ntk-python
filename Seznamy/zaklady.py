@@ -10,7 +10,8 @@ zviratka[-5]
 zviratka[2:5]
 zviratka[2:]
 zviratka[:5]
-zviratka[2:5:2]
+
+len(zviratka)
 
 zvirata = ["opice", "kočka", "myš", "slon", "buvol", "surikata"]
 zvirata.sort()

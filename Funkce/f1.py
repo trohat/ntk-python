@@ -1,5 +1,5 @@
 def privitej_navstevnika():
-    print("Dobrý den, pane", "Jak se máte", "DNes je hezky", sep=":")
+    print("Dobrý den, pane Novák.")
     print("Založte si naši průkazku.")
     print("Knihy pro dospělé jsou v prvním patře.")
     print("Knihy pro děti jsou ve druhém patře.")

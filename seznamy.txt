@@ -1,3 +1,5 @@
+https://github.com/trohat/ntk-python
+
 Můžete pracovat přímo v Python interpreteru (tedy v příkazové řádce
 Pythonu) jako při výkladu.
 
