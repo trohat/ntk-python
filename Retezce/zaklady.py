@@ -15,3 +15,6 @@ print("chobot" + "nice")
 "chobotnice".isalpha()
 "chob22otnice".isalpha()
 "12345".isdigit()
+
+rozsekanej = "ahoj jak se máš".split()
+"-*-*-*-*-".join(rozsekanej)

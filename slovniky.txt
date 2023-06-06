@@ -1,0 +1,45 @@
+Rozcvička:
+0.) Vytvořte slovník, který odpovídá slovníku pro překlad do nějakého cizího jazyka.
+(např. slovíčka v češtině a ve francouzštině - zvolte si jazyk, který umíte)
+
+a) vytvořte ho s aspoň pěti slovíčky
+b) dalším kódem do něj přidejte aspoň dvě slovíčka
+c) vytiskněte překlad nějakých slovíček
+d) změňte překlad nějakého slovíčka
+e) zeptejte se, jestli v něm je nějaké slovíčko (vyberte nějaké, co je, i nějaké, co není)
+
+-----------------------------------------------
+
+Hlavní sada: 
+
+1.) Vytvořte slovník, který vypadá jako menu restaurace
+
+klíče jsou jména jídel (zvolte jednoduchá, např. jednoslovná jídla)
+hodnoty jsou ceny (pouze číslo bez měny)
+
+a) vytvořte ho rovnou s několika jídly
+b) pak do něj dalšími příkazy několik jídel přidejte
+c) změnte u nějakého jídla cenu
+d) zkuste nějaké jídlo z menu vymazat (to jsme nedělali, můžete přeskočit)
+
+2.) Napište funkci, která vypíše všechna jídla
+(lehčí varianta: nemusí to být funkce, vypište je jen tak)
+
+3.) Napište funkci, která vypíše celé menu - tj. jídla i s cenami
+(též můžete zvolit lehčí variantu bez funkce)
+
+4.) Napište funkci, která si vezme od hosta objednávku a 
+připraví mu účet
+Host bude postupně zadávat jídla, která si chce dát (pomocí inputu).
+Pokud jídlo máme v menu, tak se vypíše potvrzení a cena (host
+si samozřejmě může objednat stejné jídlo vícekrát)
+Pokud jídlo nemáme, tak se vypíše "omlouváme se zrovna došlo" nebo
+"takovou blbost jsme nikdy neměli" (záleží na vás jak hodní chcete
+být na hosty)
+Pokud host zadá prázdný řetězec, znamená to, že skončil s objednáváním
+a vypíše se celková cena.
+
+Super těžké - pro procvičení všeho možného včetně googlení:
+5.) Nadefinujte slovník, kde klíče jsou jména lidí od vás z rodiny a 
+hodnoty data jejich narození (vygooglete si, jak Python definuje datum).
+Nechte uživatele zadat jméno někoho z rodiny, a vypočítejte, jak je starý.
