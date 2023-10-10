@@ -23,8 +23,8 @@ klíčového slova return.
 Funkci několikrát zavolejte a výsledek volání aspoň jednou uložte od proměnné.
 
 Zkuste funkci použít na vypočítání výsledku 8 * 7 a na vypočítání 5 * 6. Oba výsledky uložte
-do proměnných a zkuste vypočítat výsledek vynásobení obou proměnných - výsledek opět uložte 
-do proměnné a vytiskněte. Mělo by vyjít 1680.
+do proměnných a zkuste pomocí funkce vypočítat výsledek vynásobení obou proměnných - 
+výsledek opět uložte do proměnné a vytiskněte. Mělo by vyjít 1680.
 
 6.) Bonus (pro rychlé) - 
 Napište funkci, která bere tři parametry. První a druhý parametr jsou čísla, se kterými se bude
